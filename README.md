@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @IsItLucas
-- 🎵 I make music for my YouTube channel and for my SoundCloud account.
-- ⚙️ And I make games and software using Godot Engine!
-- 📥 You can find it in my Itch.io profile!
-- 😄 Pronouns: He/Him
+## Info:
+- **Godot Game Engine** Specialist
+- Experienced **HTML**, **CSS** and **JavaScript** Developer
+- Decent **Artist**
+- Decent **Musician**
+- Intermediate **Guitarist**
+
+## Links:
+- **Youtube:** https://www.youtube.com/@IsItLucas
+- **Itch.io:** https://isitlucas.itch.io/
+- **GameJolt:** https://gamejolt.com/@IsItLucas
+
+## 🌀 Musician and Coder of the Twisted Team.
+
+###### Nope I'm NOT a furry.
 
 <!---
 IsItLucas/IsItLucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
