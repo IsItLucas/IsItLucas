@@ -1,14 +1,14 @@
 {
 	"HOLDEN_G": {
 		"claim": "",
-		"password": "fc82b77c06df6481361664c27c048e824dcbb7bb08fce074b4679eecc325fb04"
+		"password": "a3451f1f0d5c7c3dfd475e304a3bc451aaf7241f94825fc4047abee90477e2d3"
 	},
 	"ISITLUCAS": {
-		"claim": "41ebbdbde9cebafd0d527f9a017293923f240b332b7f14427382e6dc396874d4",
-		"password": "e252af534395d31813045b5510705162c6ec9199796733174de3a111564d01ee"
+		"claim": "",
+		"password": "37578c2404fb5dd870609a2265faf3526d7144856d8537dbbc7c60ed0880170a"
 	},
 	"LUCAS_WUZ": {
 		"claim": "",
-		"password": "22a6b5cf9f4ba01620f104f6c482785589083418f17f28eb052ed2424c387266"
+		"password": "083a6b75e62bf6955f8a904a1d1abea181baafe657b4152ad101927cdaac3692"
 	}
 }
