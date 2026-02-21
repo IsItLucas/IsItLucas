@@ -1,6 +1,6 @@
 {
 	"update_checker": {
-		"download_url": "",
+		"download_url": "https://github.com/IsItLucas/twisted-engine/releases/download/v1.26.2.20-beta/twisted-engine-export.rar",
 		"version": "26.2.20.0",
 	}
 }
